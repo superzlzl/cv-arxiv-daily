@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -867,7 +867,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
-|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
 |**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135](http://arxiv.org/abs/2503.07135)|null|
 |**2025-03-09**|**AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation**|Yang Zou et.al.|[2503.06660](http://arxiv.org/abs/2503.06660)|null|
 |**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
